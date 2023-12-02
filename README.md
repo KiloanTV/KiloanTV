@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @KiloanTV
-- 👀 I’m interested in Python et Java
-- 🌱 I’m currently learning C#
+- 👋 Hi, I’m @Kiloan
 - 📫 You can't reach me!
